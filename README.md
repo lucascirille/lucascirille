@@ -10,8 +10,10 @@ I enjoy building efficient systems, exploring cloud infrastructure, and solving 
 
 ### 🚀 Featured Projects
 * **VigiNet:** A neighborhood security and alert system built with **Node.js**, **React Native (Expo)**, **Prisma**, and **PostgreSQL**.
+* **Hexagonal Architecture with Axum**:
 * **MateKnow**:
 * **EventCraft**:
+* **Rutina del Dia (Inclusive Design)**:
 * **Cloud Infrastructure:** Managing personal instances on **VPCs** using **Docker**, **Kubernetes**, and **Nginx**.
 * **IoT & Hardware:** Developing automation solutions with **Microcontrollers (ESP32 primary)** and **Embedding Rust**.
 
