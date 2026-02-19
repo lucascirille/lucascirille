@@ -4,7 +4,7 @@
 
 I am an advanced Information Systems Engineering student at **UTN (Argentina)**, currently seeking my first professional role as an **IT Trainee**. 
 
-I enjoy building efficient systems, exploring cloud infrastructure, and solving complex architectural challenges.
+I like building efficient systems and solving architectural challenges understanding the requerements of the business.
 
 ---
 
