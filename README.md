@@ -6,6 +6,10 @@ I am an advanced Information Systems Engineering student at **UTN (Argentina)**,
 
 I like building efficient systems and solving architectural challenges understanding the requerements of the business.
 
+**These days im focusing on**:
+* **Cloud Infrastructure:** Managing personal instances on **VPCs** using **Docker**, **Kubernetes**, and **Nginx**.
+* **IoT & Hardware:** Developing automation solutions with **Microcontrollers (ESP32 primary)** and **Embedding Rust**.
+
 ---
 
 ### 🚀 Featured Projects
@@ -15,15 +19,12 @@ I like building efficient systems and solving architectural challenges understan
 * [Hexagonal Architecture with Axum](https://github.com/lucascirille/crowdfunding)
 * [EventCraft](https://github.com/lucascirille/EventCraft)
 * [IAgent](https://github.com/lucascirille/IAgent)
-* **Cloud Infrastructure:** Managing personal instances on **VPCs** using **Docker**, **Kubernetes**, and **Nginx**.
-* **IoT & Hardware:** Developing automation solutions with **Microcontrollers (ESP32 primary)** and **Embedding Rust**.
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** JavaScript, TypeScript, C#, SQL.
-* **Frameworks:** React, React Native, Nest.js, .NET.
+* **Languages:** JavaScript, TypeScript, Python,  C#, SQL.
+* **Frameworks:** React, React Native, Nest.js, .NET, Django.
 * **Databases & DBMS:** SQL (Postgres), NoSQL (Mongo).
 * **DevOps & OS:** Docker, Kubernetes, Helm, Terraform, ArgoCD, Github Actions, Debian.
-* **Editor (with AI):** Neovim (my primary environment), VSCode.
 
 ### 🌎 Languages
 * **Spanish:** Native.
