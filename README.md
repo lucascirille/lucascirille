@@ -19,6 +19,7 @@ I like building efficient systems and solving architectural challenges understan
 * [Hexagonal Architecture with Axum](https://github.com/lucascirille/crowdfunding)
 * [EventCraft](https://github.com/lucascirille/EventCraft)
 * [IAgent](https://github.com/lucascirille/IAgent)
+* plantuml_observer: Will continue . . .
 
 ### 🛠 Tech Stack & Tools
 * **Languages:** JavaScript, TypeScript, Python,  C#, SQL.
