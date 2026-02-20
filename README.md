@@ -7,8 +7,8 @@ I am an advanced Information Systems Engineering student at **UTN (Argentina)**,
 I like building efficient systems and solving architectural challenges understanding the requerements of the business.
 
 **These days im focusing on**:
-* **Cloud Infrastructure:** Managing personal instances on **VPCs** using **Docker**, **Kubernetes**, and **Nginx**.
-* **IoT & Hardware:** Developing automation solutions with **Microcontrollers (ESP32 primary)** and **Embedding Rust**.
+* **Cloud Infrastructure:** Working with AWS on personal projects and learning along the way.
+* **IoT & Hardware:** Exploring automation solutions using microcontrollers (primarily ESP32) and embedded Rust.
 
 ---
 
