@@ -14,7 +14,7 @@ I like building efficient systems and solving architectural challenges understan
 ---
 
 ### 🚀 Featured Projects
-* [VigiNet](https://github.com/lucascirille/VigiNet): A neighborhood security and alert system built with **Node.js**, **React Native (Expo)**, **Prisma**, and **PostgreSQL**.
+* [VigiNet](https://github.com/lucascirille/VigiNet)
 * [MateKnow](https://github.com/lucascirille/MateKnow)
 * [Rutina del Dia (Inclusive Design)](https://github.com/lucascirille/RutinaDelDia)
 * [Eventhub](https://github.com/lucascirille/eventhub)
