@@ -19,7 +19,6 @@ I like building efficient systems and solving architectural challenges understan
 * [Rutina del Dia (Inclusive Design)](https://github.com/lucascirille/RutinaDelDia)
 * [Eventhub](https://github.com/lucascirille/eventhub)
 * [IAgent](https://github.com/lucascirille/IAgent)
-* plantuml_observer: Will continue . . .
 * [Hexagonal Architecture with Axum](https://github.com/lucascirille/crowdfunding)
 
 ### 🛠 Tech Stack & Tools
